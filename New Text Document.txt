@@ -1,4 +1,4 @@
-for jpg we can use Open-browser
+for jpg we can use Open-browser.
 
 Shift + copy as path-
 "C:\Users\DeepakBehera\Desktop\Naresh\Invoice_Pinky\image\inv29.jpg"
